@@ -1,0 +1,4 @@
+Sources for Hephestos all printable parts
+
+Hephestos Repetier Firmware (http://www.thingiverse.com/thing:910752)
+Prusa i3 Hephestos (http://www.thingiverse.com/thing:371842)
